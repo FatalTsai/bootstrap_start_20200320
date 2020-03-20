@@ -1,6 +1,10 @@
 # bootstrap_start_20200320
 
 useful fontend web tools -->emmet
+
+
+
+
 e.g.  .container>row>.co1-12.col-sm-6.col-md-4.col-lg-3.col-xl-2*20>border.border-dark.bg-info.rounded.hz-100.mb-3.ff1.fz50.d-flex.justify-content-center.align-items-center.text-light>{$}
 
 
